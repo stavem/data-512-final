@@ -3,6 +3,11 @@ A5: Project Proposal
 
 Project comparing the wealth of United States politicians with the average wealth of their constuents.
 
+Motivation and problem statement:
+
+Data selected for analysis: What dataset do you plan to use, and why? 
+https://www.opensecrets.org/
+
 Project Organization
 ------------
 
