@@ -1,7 +1,7 @@
-Data Science Template
+A5: Project Proposal
 ==============================
 
-This is a template for new data science projects.
+Project comparing the wealth of United States politicians with the average wealth of their constuents.
 
 Project Organization
 ------------
