@@ -2,11 +2,7 @@
 
 
 #### Motivation and problem statement: 
-One or more paragraphs of text that answers the questions:
-Why are you planning to do this analysis? 
-Why is it potentially interesting and useful, from a scientific, practical, and/or human-centered perspective? 
-What do you hope to learn? 
-Note that you only need to describe your overall research goal at this stage; specific hypotheses or research questions aren’t necessary in the project preliminary proposal.
+I am attempting to look at the investments of individuals in the 50+ age group.  There are strict investment rules for individuals in this age category.   Advisors acting as a fiduciary must ensure that all investments meet strict suitibility guidelines.   As such, advisors are unable to recommend many green investments as the timeline for returns may be longer than traditional blue chip stocks.
 
 #### Data selected for analysis: 
 What dataset do you plan to use, and why? 
@@ -41,8 +37,7 @@ Are there any factors outside of your control that might impact your ability to 
 The purpose of this section is to get you thinking, in a practical sense, about your ability to complete this project within the time allotted.
   
 #### Research questions and/or hypotheses
-Research question: what is the impact of an MS degree on data scientist salaries over the course of their careers?
-Hypothesis: earning an MS degree is associated with an increase of x% in career data scientist salaries compared to similar data scientists who do not earn a degree
+With increased life expectancy and interest in green investments, are current suitability standards still appropriate?   Do they need to be modified to allow for different interests in investments.
 
 #### Background/Related Work: 
 What is already known about this phenomenon? 
