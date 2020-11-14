@@ -38,7 +38,7 @@ Do the attitudes of investors above the age of 50 affect the types of investment
 
 Since the values of young investors differ from those in the above 50 age group, the general shape of the investment landscape is not inline with their core values, and this disincentivizes them from participating in the market. 
 
-#### Background/Related Work: 
+### Background/Related Work: 
 
 Some broker trade associations such as _SIFMA_ have conducted similar research in the past.   Most of this research is available at: 
 https://www.sifma.org/resources/archive/research/statistics/?aq=&hPP=10&idx=prod_wp_searchable_posts&ap=1&fR%5Btaxonomies.research_type%5D%5B0%5D=Statistics&is_v=1
