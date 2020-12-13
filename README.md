@@ -32,6 +32,8 @@ The analysis in this repository requires the following python packages:
 * Seaborn
 | https://seaborn.pydata.org/  
 
+* requests, zipfile, io
+
 
 ### PROJECT LICENSE
 Please view the [MIT License](/LICENSE) for details.
