@@ -17,10 +17,10 @@ _Karl Stavem_
 
 ### DATA SOURCES
 #### Descrption
-The primary dataset used to address these questions is the 2018 National Financial Capability Study (NFCS), funded by the FINRA Investor Education Foundation.  The 2018 NFCS contains responses from roughly 27,000 households across all 50 states. Each respondent provided answers to 127 different questions. All responses have been numericall encoded into a single .csv file.
+The primary dataset used in this research is the 2018 National Financial Capability Study (NFCS), funded by the FINRA Investor Education Foundation.  The 2018 NFCS contains responses from roughly 27,000 households across all 50 states. Each respondent provided answers to 127 different questions. All responses have been numericall encoded into a single .csv file.
 
-#### Access
-The 2018 NFCS dataset is freely available online and is subject to FINRA's terms of use. Full details and descrptions can be found on the on the Data and Downloads page of the US Financial Capability website. The primrary dataset used in this exploration is titled, 2018 State-by-State Survey — Respondent-Level Data, Comma delimited Excel file (.csv) and it may be downloaded in a .zip file directly from FINRA's website using this link. This project already contains the full 2018 NFCS dataset, which can be viewed directly here: "NFCS 2018 State Data 190603.csv".
+#### Usage/Access
+The 2018 NFCS dataset is freely available online and is subject to FINRA's [terms of use](https://www.usfinancialcapability.org/terms.php).  Full details and descrptions can be found on the on the [Data and Downloads](https://www.usfinancialcapability.org/downloads.php) page of the US Financial Capability website.  The primrary dataset used in this exploration is titled, _2018 State-by-State Survey — Respondent-Level Data, Comma delimited Excel file (.csv)_ and it may be downloaded in a .zip file directly from FINRA's website using [this link](https://www.usfinancialcapability.org/downloads/NFCS_2018_State_by_State_Data_Excel.zip).  This project already contains the full 2018 NFCS dataset, which can be viewed directly here: [\"NFCS 2018 State Data 190603.csv\"](raw_data/NFCS%202018%20State%20Data%20190603.csv). 
 
 
 ### PYTHON LIBRARIES USED
