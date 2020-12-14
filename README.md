@@ -2,7 +2,7 @@
 _Karl Stavem_
 
 ### ABSTRACT
-The goal of this study is to explore participation in the stock market and examine at how participation differs across gender lines.  Participation was measured in 27,000 individual households across the United States through a dataset provided by the _FINRA Investor Education Foundation_.   A combination of exploratory data analysis techniques was used along with basic statistical methods such as two-sample Z-tests and logistic regression.   The study finds statistically significant results indicating that women participate in the stock market at a lower rate than men.   Additionally, the study concludes that this discrepancy in participation rates is driven largely by differences in employment status across genders.
+The goal of this study is to explore participation in the stock market and examine how participation differs across gender lines.  Participation was measured in 27,000 individual households across the United States through a dataset provided by the _FINRA Investor Education Foundation_.   A combination of exploratory data analysis techniques was used along with basic statistical methods such as two-sample Z-tests and logistic regression.   The study finds statistically significant results indicating that women participate in the stock market at a lower rate than men.   Additionally, the study concludes that this discrepancy in participation rates is driven largely by differences in employment status across genders.
 
 
 ### PROJECT STRUCTURE
